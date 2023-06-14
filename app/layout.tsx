@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "Uncut Video",
     images: [
       {
-        url: "https://uncut.video/og.png",
+        url: "https://uncut.video/og.jpg",
         width: 1920,
         height: 1080,
       },
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "/favicon.jpg",
   },
 };
 
